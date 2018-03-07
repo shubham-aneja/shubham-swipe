@@ -1,0 +1,7 @@
+export default {
+    CARD_REMOVED: 'CARD_REMOVED',
+    CARD_REFRESH: 'CARD_REFRESH',
+    CARD_INIT: 'CARD_INIT',
+    CARD_DESTROY: 'FROM_DESTROY'
+}
+
